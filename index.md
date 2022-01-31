@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Filmotec
 
-You can use the [editor on GitHub](https://github.com/StarlingSG1/github-pages-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Filmotec est une application permettant aux utilisateurs de se creer une biliothèque personnelle contenant leur films préférés qu'ils peuvent retrouver grâce à l'API TMDb. Ils peuvent noter et commenter n'importe quel film et le partager.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installer le projet
 
-### Markdown
+### Installer les packages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Avec yarn**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+yarn
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- **Avec npm**
+```
+npm install
+```
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StarlingSG1/github-pages-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Lancer le projet
+Le projet se lance à l'URL suivant : `http://localhost:3000`
+- **Avec yarn**
 
-### Support or Contact
+```
+yarn dev
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Avec npm**
+```
+npm run dev
+```
+
+## Contact
+Barrière Jérémie <barriere.jeremie@gmail.com>
+
+![Logo Agence RJS](https://studl.com/assets/uploads/logo_entreprises/35163/logo566849e513b5a7.34491942.jpg)
